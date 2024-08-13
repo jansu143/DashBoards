@@ -1,0 +1,10 @@
+Flask
+Werkzeug
+dash
+dash-bootstrap-components
+plotly
+pandas
+numpy
+prophet
+scikit-learn
+RandomForestRegressor
